@@ -1,0 +1,5 @@
+C:\Users\Виталий\Desktop\Home work\EnumQuizesPart2\EnumQuizesPart2\bin\Debug\EnumQuizesPart2.exe.config
+C:\Users\Виталий\Desktop\Home work\EnumQuizesPart2\EnumQuizesPart2\bin\Debug\EnumQuizesPart2.exe
+C:\Users\Виталий\Desktop\Home work\EnumQuizesPart2\EnumQuizesPart2\bin\Debug\EnumQuizesPart2.pdb
+C:\Users\Виталий\Desktop\Home work\EnumQuizesPart2\EnumQuizesPart2\obj\Debug\EnumQuizesPart2.exe
+C:\Users\Виталий\Desktop\Home work\EnumQuizesPart2\EnumQuizesPart2\obj\Debug\EnumQuizesPart2.pdb

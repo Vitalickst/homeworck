@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Home work\StringVsStringBuilderEx\StringVsStringBuilderEx\bin\Debug\StringVsStringBuilderEx.exe.config
+C:\Users\Виталий\Desktop\Home work\StringVsStringBuilderEx\StringVsStringBuilderEx\bin\Debug\StringVsStringBuilderEx.exe
+C:\Users\Виталий\Desktop\Home work\StringVsStringBuilderEx\StringVsStringBuilderEx\bin\Debug\StringVsStringBuilderEx.pdb
+C:\Users\Виталий\Desktop\Home work\StringVsStringBuilderEx\StringVsStringBuilderEx\obj\Debug\StringVsStringBuilderEx.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\StringVsStringBuilderEx\StringVsStringBuilderEx\obj\Debug\StringVsStringBuilderEx.exe
+C:\Users\Виталий\Desktop\Home work\StringVsStringBuilderEx\StringVsStringBuilderEx\obj\Debug\StringVsStringBuilderEx.pdb

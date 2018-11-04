@@ -1,0 +1,5 @@
+C:\Users\Виталий\Desktop\Home work\QuizeOnStructures\QuizeOnStructures\bin\Debug\QuizeOnStructures.exe.config
+C:\Users\Виталий\Desktop\Home work\QuizeOnStructures\QuizeOnStructures\bin\Debug\QuizeOnStructures.exe
+C:\Users\Виталий\Desktop\Home work\QuizeOnStructures\QuizeOnStructures\bin\Debug\QuizeOnStructures.pdb
+C:\Users\Виталий\Desktop\Home work\QuizeOnStructures\QuizeOnStructures\obj\Debug\QuizeOnStructures.exe
+C:\Users\Виталий\Desktop\Home work\QuizeOnStructures\QuizeOnStructures\obj\Debug\QuizeOnStructures.pdb

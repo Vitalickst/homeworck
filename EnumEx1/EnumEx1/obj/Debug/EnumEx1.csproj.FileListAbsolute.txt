@@ -1,0 +1,5 @@
+C:\Users\Виталий\Desktop\Home work\EnumEx1\EnumEx1\bin\Debug\EnumEx1.exe.config
+C:\Users\Виталий\Desktop\Home work\EnumEx1\EnumEx1\bin\Debug\EnumEx1.exe
+C:\Users\Виталий\Desktop\Home work\EnumEx1\EnumEx1\bin\Debug\EnumEx1.pdb
+C:\Users\Виталий\Desktop\Home work\EnumEx1\EnumEx1\obj\Debug\EnumEx1.exe
+C:\Users\Виталий\Desktop\Home work\EnumEx1\EnumEx1\obj\Debug\EnumEx1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Виталий\Desktop\Home work\InsertionSort_home\InsertionSort_home\bin\Debug\InsertionSort_home.exe.config
+C:\Users\Виталий\Desktop\Home work\InsertionSort_home\InsertionSort_home\bin\Debug\InsertionSort_home.exe
+C:\Users\Виталий\Desktop\Home work\InsertionSort_home\InsertionSort_home\bin\Debug\InsertionSort_home.pdb
+C:\Users\Виталий\Desktop\Home work\InsertionSort_home\InsertionSort_home\obj\Debug\InsertionSort_home.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\InsertionSort_home\InsertionSort_home\obj\Debug\InsertionSort_home.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Home work\InsertionSort_home\InsertionSort_home\obj\Debug\InsertionSort_home.exe
+C:\Users\Виталий\Desktop\Home work\InsertionSort_home\InsertionSort_home\obj\Debug\InsertionSort_home.pdb

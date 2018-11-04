@@ -1,0 +1,7 @@
+C:\Users\Виталий\Desktop\Home work\QuickSortStart\QuickSortStart\bin\Debug\QuickSortStart.exe.config
+C:\Users\Виталий\Desktop\Home work\QuickSortStart\QuickSortStart\bin\Debug\QuickSortStart.exe
+C:\Users\Виталий\Desktop\Home work\QuickSortStart\QuickSortStart\bin\Debug\QuickSortStart.pdb
+C:\Users\Виталий\Desktop\Home work\QuickSortStart\QuickSortStart\obj\Debug\QuickSortStart.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\QuickSortStart\QuickSortStart\obj\Debug\QuickSortStart.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Home work\QuickSortStart\QuickSortStart\obj\Debug\QuickSortStart.exe
+C:\Users\Виталий\Desktop\Home work\QuickSortStart\QuickSortStart\obj\Debug\QuickSortStart.pdb

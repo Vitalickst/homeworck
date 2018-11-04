@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Home work\RectangularArrayEx\RectangularArrayEx\bin\Debug\RectangularArrayEx.exe.config
+C:\Users\Виталий\Desktop\Home work\RectangularArrayEx\RectangularArrayEx\bin\Debug\RectangularArrayEx.exe
+C:\Users\Виталий\Desktop\Home work\RectangularArrayEx\RectangularArrayEx\bin\Debug\RectangularArrayEx.pdb
+C:\Users\Виталий\Desktop\Home work\RectangularArrayEx\RectangularArrayEx\obj\Debug\RectangularArrayEx.exe
+C:\Users\Виталий\Desktop\Home work\RectangularArrayEx\RectangularArrayEx\obj\Debug\RectangularArrayEx.pdb
+C:\Users\Виталий\Desktop\Home work\RectangularArrayEx\RectangularArrayEx\obj\Debug\RectangularArrayEx.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Виталий\Desktop\Home work\QuizOnArray_1\QuizOnArray_1\bin\Debug\QuizOnArray_1.exe.config
+C:\Users\Виталий\Desktop\Home work\QuizOnArray_1\QuizOnArray_1\bin\Debug\QuizOnArray_1.exe
+C:\Users\Виталий\Desktop\Home work\QuizOnArray_1\QuizOnArray_1\bin\Debug\QuizOnArray_1.pdb
+C:\Users\Виталий\Desktop\Home work\QuizOnArray_1\QuizOnArray_1\obj\Debug\QuizOnArray_1.exe
+C:\Users\Виталий\Desktop\Home work\QuizOnArray_1\QuizOnArray_1\obj\Debug\QuizOnArray_1.pdb

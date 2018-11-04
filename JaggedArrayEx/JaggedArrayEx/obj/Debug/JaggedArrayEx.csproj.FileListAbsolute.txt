@@ -1,0 +1,5 @@
+C:\Users\Виталий\Desktop\Home work\JaggedArrayEx\JaggedArrayEx\bin\Debug\JaggedArrayEx.exe.config
+C:\Users\Виталий\Desktop\Home work\JaggedArrayEx\JaggedArrayEx\bin\Debug\JaggedArrayEx.exe
+C:\Users\Виталий\Desktop\Home work\JaggedArrayEx\JaggedArrayEx\bin\Debug\JaggedArrayEx.pdb
+C:\Users\Виталий\Desktop\Home work\JaggedArrayEx\JaggedArrayEx\obj\Debug\JaggedArrayEx.exe
+C:\Users\Виталий\Desktop\Home work\JaggedArrayEx\JaggedArrayEx\obj\Debug\JaggedArrayEx.pdb

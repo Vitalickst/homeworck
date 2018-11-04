@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Home work\EnumQuizes\EnumQuizes\bin\Debug\EnumQuizes.exe.config
+C:\Users\Виталий\Desktop\Home work\EnumQuizes\EnumQuizes\bin\Debug\EnumQuizes.exe
+C:\Users\Виталий\Desktop\Home work\EnumQuizes\EnumQuizes\bin\Debug\EnumQuizes.pdb
+C:\Users\Виталий\Desktop\Home work\EnumQuizes\EnumQuizes\obj\Debug\EnumQuizes.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\EnumQuizes\EnumQuizes\obj\Debug\EnumQuizes.exe
+C:\Users\Виталий\Desktop\Home work\EnumQuizes\EnumQuizes\obj\Debug\EnumQuizes.pdb

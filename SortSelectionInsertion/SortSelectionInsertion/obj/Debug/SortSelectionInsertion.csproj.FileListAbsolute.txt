@@ -1,0 +1,7 @@
+C:\Users\Виталий\Desktop\Home work\SortSelectionInsertion\SortSelectionInsertion\bin\Debug\SortSelectionInsertion.exe.config
+C:\Users\Виталий\Desktop\Home work\SortSelectionInsertion\SortSelectionInsertion\bin\Debug\SortSelectionInsertion.exe
+C:\Users\Виталий\Desktop\Home work\SortSelectionInsertion\SortSelectionInsertion\bin\Debug\SortSelectionInsertion.pdb
+C:\Users\Виталий\Desktop\Home work\SortSelectionInsertion\SortSelectionInsertion\obj\Debug\SortSelectionInsertion.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\SortSelectionInsertion\SortSelectionInsertion\obj\Debug\SortSelectionInsertion.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Home work\SortSelectionInsertion\SortSelectionInsertion\obj\Debug\SortSelectionInsertion.exe
+C:\Users\Виталий\Desktop\Home work\SortSelectionInsertion\SortSelectionInsertion\obj\Debug\SortSelectionInsertion.pdb

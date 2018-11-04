@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Home work\MyStructure\MyStructure\bin\Debug\MyStructure.exe.config
+C:\Users\Виталий\Desktop\Home work\MyStructure\MyStructure\bin\Debug\MyStructure.exe
+C:\Users\Виталий\Desktop\Home work\MyStructure\MyStructure\bin\Debug\MyStructure.pdb
+C:\Users\Виталий\Desktop\Home work\MyStructure\MyStructure\obj\Debug\MyStructure.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\MyStructure\MyStructure\obj\Debug\MyStructure.exe
+C:\Users\Виталий\Desktop\Home work\MyStructure\MyStructure\obj\Debug\MyStructure.pdb

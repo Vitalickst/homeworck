@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Home work\SingletonPatternEx\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe.config
+C:\Users\Виталий\Desktop\Home work\SingletonPatternEx\SingletonPatternEx\bin\Debug\SingletonPatternEx.exe
+C:\Users\Виталий\Desktop\Home work\SingletonPatternEx\SingletonPatternEx\bin\Debug\SingletonPatternEx.pdb
+C:\Users\Виталий\Desktop\Home work\SingletonPatternEx\SingletonPatternEx\obj\Debug\SingletonPatternEx.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\SingletonPatternEx\SingletonPatternEx\obj\Debug\SingletonPatternEx.exe
+C:\Users\Виталий\Desktop\Home work\SingletonPatternEx\SingletonPatternEx\obj\Debug\SingletonPatternEx.pdb

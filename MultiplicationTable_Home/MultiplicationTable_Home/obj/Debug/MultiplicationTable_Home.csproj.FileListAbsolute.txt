@@ -1,0 +1,5 @@
+C:\Users\Виталий\Desktop\Home work\MultiplicationTable_Home\MultiplicationTable_Home\bin\Debug\MultiplicationTable_Home.exe.config
+C:\Users\Виталий\Desktop\Home work\MultiplicationTable_Home\MultiplicationTable_Home\bin\Debug\MultiplicationTable_Home.exe
+C:\Users\Виталий\Desktop\Home work\MultiplicationTable_Home\MultiplicationTable_Home\bin\Debug\MultiplicationTable_Home.pdb
+C:\Users\Виталий\Desktop\Home work\MultiplicationTable_Home\MultiplicationTable_Home\obj\Debug\MultiplicationTable_Home.exe
+C:\Users\Виталий\Desktop\Home work\MultiplicationTable_Home\MultiplicationTable_Home\obj\Debug\MultiplicationTable_Home.pdb

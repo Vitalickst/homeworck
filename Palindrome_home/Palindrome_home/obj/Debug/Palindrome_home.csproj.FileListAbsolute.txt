@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Home work\Palindrome_home\Palindrome_home\bin\Debug\Palindrome_home.exe.config
+C:\Users\Виталий\Desktop\Home work\Palindrome_home\Palindrome_home\bin\Debug\Palindrome_home.exe
+C:\Users\Виталий\Desktop\Home work\Palindrome_home\Palindrome_home\bin\Debug\Palindrome_home.pdb
+C:\Users\Виталий\Desktop\Home work\Palindrome_home\Palindrome_home\obj\Debug\Palindrome_home.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\Palindrome_home\Palindrome_home\obj\Debug\Palindrome_home.exe
+C:\Users\Виталий\Desktop\Home work\Palindrome_home\Palindrome_home\obj\Debug\Palindrome_home.pdb

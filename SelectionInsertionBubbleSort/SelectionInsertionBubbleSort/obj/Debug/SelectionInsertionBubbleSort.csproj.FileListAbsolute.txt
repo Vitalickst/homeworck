@@ -1,0 +1,7 @@
+C:\Users\Виталий\Desktop\Home work\SelectionInsertionBubbleSort\SelectionInsertionBubbleSort\obj\Debug\SelectionInsertionBubbleSort.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\SelectionInsertionBubbleSort\SelectionInsertionBubbleSort\obj\Debug\SelectionInsertionBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Home work\SelectionInsertionBubbleSort\SelectionInsertionBubbleSort\bin\Debug\SelectionInsertionBubbleSort.exe.config
+C:\Users\Виталий\Desktop\Home work\SelectionInsertionBubbleSort\SelectionInsertionBubbleSort\bin\Debug\SelectionInsertionBubbleSort.exe
+C:\Users\Виталий\Desktop\Home work\SelectionInsertionBubbleSort\SelectionInsertionBubbleSort\bin\Debug\SelectionInsertionBubbleSort.pdb
+C:\Users\Виталий\Desktop\Home work\SelectionInsertionBubbleSort\SelectionInsertionBubbleSort\obj\Debug\SelectionInsertionBubbleSort.exe
+C:\Users\Виталий\Desktop\Home work\SelectionInsertionBubbleSort\SelectionInsertionBubbleSort\obj\Debug\SelectionInsertionBubbleSort.pdb

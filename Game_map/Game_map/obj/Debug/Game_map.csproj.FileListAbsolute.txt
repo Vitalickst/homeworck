@@ -1,0 +1,6 @@
+C:\Users\Виталий\Desktop\Home work\Game_map\Game_map\bin\Debug\Game_map.exe.config
+C:\Users\Виталий\Desktop\Home work\Game_map\Game_map\bin\Debug\Game_map.exe
+C:\Users\Виталий\Desktop\Home work\Game_map\Game_map\bin\Debug\Game_map.pdb
+C:\Users\Виталий\Desktop\Home work\Game_map\Game_map\obj\Debug\Game_map.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\Game_map\Game_map\obj\Debug\Game_map.exe
+C:\Users\Виталий\Desktop\Home work\Game_map\Game_map\obj\Debug\Game_map.pdb

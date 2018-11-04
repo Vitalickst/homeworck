@@ -1,0 +1,7 @@
+C:\Users\Виталий\Desktop\Home work\QuickSort_home\QuickSort_home\obj\Debug\QuickSort_home.csprojAssemblyReference.cache
+C:\Users\Виталий\Desktop\Home work\QuickSort_home\QuickSort_home\obj\Debug\QuickSort_home.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\Desktop\Home work\QuickSort_home\QuickSort_home\bin\Debug\QuickSort_home.exe.config
+C:\Users\Виталий\Desktop\Home work\QuickSort_home\QuickSort_home\bin\Debug\QuickSort_home.exe
+C:\Users\Виталий\Desktop\Home work\QuickSort_home\QuickSort_home\bin\Debug\QuickSort_home.pdb
+C:\Users\Виталий\Desktop\Home work\QuickSort_home\QuickSort_home\obj\Debug\QuickSort_home.exe
+C:\Users\Виталий\Desktop\Home work\QuickSort_home\QuickSort_home\obj\Debug\QuickSort_home.pdb
